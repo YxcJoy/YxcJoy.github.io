@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyx&#39;s blog</title>
+    <link>https://YxcJoy.github.io/</link>
+    <description>Recent content on cyx&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-zh</language>
+    <lastBuildDate>Thu, 09 Jun 2022 18:54:09 +0800</lastBuildDate><atom:link href="https://YxcJoy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://YxcJoy.github.io/post/blog/</link>
+      <pubDate>Thu, 09 Jun 2022 18:54:09 +0800</pubDate>
+      
+      <guid>https://YxcJoy.github.io/post/blog/</guid>
+      <description>this is a test blog</description>
+    </item>
+    
+  </channel>
+</rss>
